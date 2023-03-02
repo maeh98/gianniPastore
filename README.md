@@ -1,2 +1,2 @@
 # gianniPastore
-Let's collaborate 
+Predicting housee prices. Kaggle dataset and competition.
